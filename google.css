@@ -1,0 +1,47 @@
+div{
+	position:absolute;
+}
+
+
+
+.google{
+	margin:10% 40%;
+}
+
+.Search_box input{
+	height:30px;
+	width:600px;
+	background-color: #f2f2f2;
+	margin: 250px 380px;
+	border-radius: 2px;
+	outline: medium black;
+	border-color: #f2f2f2;
+	
+	
+}
+
+
+
+.search{
+	margin:23% 40%;
+	border:1px solid #f2f2f2;
+}
+
+.lucky{
+	margin:23% 50%;
+	width: 110px;
+	border:1px solid #f2f2f2;
+}
+.search, .lucky{
+	padding:8px 20px;
+	border-radius:3px;
+	background-color:#f2f2f2;
+	font-color:#757575;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.search:hover, .lucky:hover{
+	border: 2px solid #757575;
+}
